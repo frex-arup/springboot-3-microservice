@@ -1,0 +1,9 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(ÍÊƒﬁ8åï…Ä‘1
+u
+java:S3305"XInject this field value directly into "employeeWebClient", the only method that uses it.(Ô°’£8çï…Ä‘1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(µ≤°Å8éï…Ä‘1
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(µ≤°Å8èï…Ä‘1
